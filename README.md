@@ -1,2 +1,2 @@
-# redux-shop
-challenge 22 bootcamp
+# Redux-Shop
+Challenge 22 bootcamp
