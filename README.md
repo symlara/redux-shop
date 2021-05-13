@@ -1,5 +1,7 @@
 # Redux-Shop
 <img src="https://img.shields.io/badge/javascript-90%25-informational" alt="javascript" /> <img src="https://img.shields.io/badge/redux-%25-informational" />
+<br>
+<img src="https://img.shields.io/badge/state-%25-success"> <img src="https://img.shields.io/badge/mern%20app-100%25-success">
 <br />Challenge 22 bootcamp
 
 <hr />
