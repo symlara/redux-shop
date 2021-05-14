@@ -14,7 +14,7 @@ This app was created to test out the Redux vs Context API. Redux becomes more us
 
 
 ## Contributors ✏️
-Aaliyah Symlar 
+<a href="https://github.com/symlara/redux-shop">Aaliyah Symlar </a>
 
 
 
